@@ -8,7 +8,7 @@ package com.shijin.learn;
  *
  */
 public class Hello {
-	static int i = 3;
+	static int i = 5;
 	/**
 	 * @param args
 	 */

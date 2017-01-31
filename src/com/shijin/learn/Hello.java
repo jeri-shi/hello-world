@@ -8,13 +8,13 @@ package com.shijin.learn;
  *
  */
 public class Hello {
-	static int i = 3;
+	static int i = 5;
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		for (int j = 0; j < 10; j++) {
-			System.out.println("Hello World Again!" + (i + j));
+			System.out.println("Hello World Again!" + i + j);
 		}
 	}
 
